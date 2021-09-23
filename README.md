@@ -1,4 +1,4 @@
-# Project from frot-end course
+# Project from front-end course
 
 My first project, build during the front-end course. Design by Vladimir Todorov, coding by me.
 
