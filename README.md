@@ -1,6 +1,6 @@
 # Project from frot-end course
 
-My first project, build during the front-course. Design by Vladimir Todorov, coding by me.
+My first project, build during the front-end course. Design by Vladimir Todorov, coding by me.
 
 ## Links
 
